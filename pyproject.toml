@@ -1,0 +1,21 @@
+[project]
+name = "twitter-scraper-arminsoft"
+version = "2.0.0"
+description = "High-performance X (Twitter) data extraction and analysis platform"
+authors = [
+    {name = "ARMIN-SOFT", email = "info@armin-soft.ir"}
+]
+homepage = "https://armin-soft.ir/"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "cryptography>=45.0.5",
+    "lxml>=5.4.0",
+    "pandas>=2.3.1",
+    "pyfiglet>=1.0.3",
+    "requests>=2.32.4",
+    "rich>=14.0.0",
+    "selenium>=4.34.2",
+    "sendgrid>=6.12.4",
+    "trafilatura>=2.0.0",
+]
