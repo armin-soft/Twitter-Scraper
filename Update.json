@@ -1,0 +1,11 @@
+{
+  "available": false,
+  "current_version": "1.1.0",
+  "latest_version": "1.1.0",
+  "release_name": "Twitter Scraper v1.1.0",
+  "release_notes": "# Twitter Scraper v1.1.0\r\n\r\n## \ud83d\udd04 Auto-Update System\r\n- Automatic updates from GitHub Releases\r\n- Preserve user settings during updates\r\n- Automatic notifications for new versions\r\n\r\n## \ud83d\udce6 Core Features\r\n- High-quality Twitter/X data extraction\r\n- Advanced terminal interface with Rich library\r\n- Intelligent rate limiting system\r\n- Export to CSV and JSON formats\r\n- Persistent authentication system\r\n- Multi-threaded data processing\r\n\r\n## \ud83d\udee0\ufe0f Installation & Setup\r\n1. Download the Twitter-Scraper.zip file\r\n2. Extract the archive\r\n3. Run the Run.py script\r\n4. Enter your Twitter credentials\r\n5. Start extracting data\r\n\r\n## \ud83d\udccb Requirements\r\n- Python 3.11+\r\n- Chrome/Chromium browser\r\n- Internet connection\r\n- Valid Twitter account\r\n\r\n## \ud83d\ude80 Key Improvements\r\n- Enhanced performance and stability\r\n- Improved user interface\r\n- Better error handling\r\n- Optimized data processing\r\n\r\n## \ud83d\udd27 Technologies Used\r\n- Selenium WebDriver\r\n- Rich Terminal UI\r\n- Pandas Data Processing\r\n- GitHub API Integration\r\n\r\n---\r\n**Developer**: ARMIN-SOFT | **Website**: https://armin-soft.ir/ | **Support**: @ARMIN_SOFT",
+  "download_url": "https://github.com/armin-soft/Twitter-Scraper/releases/download/v1.1.0/Twitter-Scraper.zip",
+  "published_at": "2025-07-20T09:57:36Z",
+  "prerelease": false,
+  "assets_found": 1
+}
