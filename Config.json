@@ -1,0 +1,107 @@
+{
+  "scraping": {
+    "max_threads": 4,
+    "headless": true,
+    "min_delay": 0.8,
+    "max_delay": 2.0,
+    "requests_per_minute": 60,
+    "tweet_limit": 200000,
+    "retry_attempts": 3,
+    "timeout": 30,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "initial_load_delay": [
+      1.5,
+      3.0
+    ],
+    "hashtag_load_delay": [
+      1.5,
+      3.0
+    ],
+    "search_load_delay": [
+      1.5,
+      3.0
+    ],
+    "scroll_delay": [
+      0.8,
+      1.5
+    ],
+    "human_thinking_delay": [
+      0.5,
+      1.0
+    ],
+    "human_thinking_chance": 0.15,
+    "extra_delay_chance": 0.2,
+    "rate_limit_wait_time": 25
+  },
+  "export": {
+    "output_dir": "Exports",
+    "default_format": "csv",
+    "include_summary": true,
+    "compress_output": false,
+    "max_file_size_mb": 100,
+    "create_backup": true
+  },
+  "filter": {
+    "filter_retweets": false,
+    "min_likes": 0,
+    "min_retweets": 0,
+    "min_replies": 0,
+    "min_text_length": 1,
+    "max_text_length": 2000,
+    "filter_duplicates": true,
+    "remove_urls": false,
+    "remove_mentions": false
+  },
+  "ui": {
+    "show_progress": true,
+    "colored_output": true,
+    "log_level": "INFO",
+    "terminal_width": 80,
+    "update_interval": 0.5,
+    "show_stats": true
+  },
+  "proxy": {
+    "enabled": false,
+    "proxy_type": "http",
+    "host": "",
+    "port": 0,
+    "username": "",
+    "password": "",
+    "rotate_proxies": false,
+    "proxy_list": [],
+    "test_connection": true,
+    "timeout": 30
+  },
+  "rate_limiting": {
+    "enabled": true,
+    "base_delay": 1.0,
+    "random_delay": 0.5,
+    "requests_per_minute": 45,
+    "burst_limit": 10,
+    "cooldown_period": 30,
+    "adaptive_delay": true,
+    "max_delay": 15.0
+  },
+  "session": {
+    "enable_session_save": true,
+    "session_dir": "Sessions",
+    "auto_save_interval": 300,
+    "max_sessions": 10,
+    "session_timeout": 86400
+  },
+  "developer_info": {
+    "name": "ARMIN-SOFT",
+    "version": "1.4.0",
+    "website": "https://armin-soft.ir/",
+    "contact": "@ARMIN_SOFT",
+    "github_repo": "armin-soft/Twitter-Scraper"
+  },
+  "last_updated": "2025-07-21T09:58:24.975435",
+  "installation_method": "Auto-Run.sh",
+  "auto_installed": true,
+  "installation_info": {
+    "last_setup": "2025-07-20T12:34:53.433631",
+    "setup_method": "Auto-Run.sh",
+    "auto_configured": true
+  }
+}
