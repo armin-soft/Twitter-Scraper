@@ -1,0 +1,2 @@
+{"timestamp": "2025-07-21T08:56:00.579363", "level": "\u001b[32mINFO\u001b[0m", "logger": "TwitterScraper", "message": "Logging session started - Session ID: 20250721_085600", "module": "Logger", "function": "info", "line": 185, "asctime": "2025-07-21 08:56:00"}
+{"timestamp": "2025-07-21T08:56:00.581381", "level": "\u001b[32mINFO\u001b[0m", "logger": "TwitterScraper", "message": "Developer: ARMIN-SOFT", "module": "Logger", "function": "info", "line": 185, "asctime": "2025-07-21 08:56:00"}
