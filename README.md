@@ -356,8 +356,6 @@ This tool is for **educational and research purposes**. Users are responsible fo
 
 ---
 
-## 👨‍💻 **Developer**
-
 <div align="center">
 
 ## 🤔About:
@@ -381,12 +379,4 @@ This tool is for **educational and research purposes**. Users are responsible fo
 ![HTML](https://img.shields.io/badge/HTML-ARMIN--SOFT-830006?style=flat&logo=HTML5)<br/>![CSS](https://img.shields.io/badge/CSS-ARMIN--SOFT-830006?style=flat&logo=CSS)<br/>![JAVA SCRIPT](https://img.shields.io/badge/JAVA%20SCRIPT-ARMIN--SOFT-830006?style=flat&logo=javascript)<br/>![JQUERY](https://img.shields.io/badge/JQUERY-ARMIN--SOFT-830006?style=flat&logo=jquery)<br/>![PHP](https://img.shields.io/badge/PHP-ARMIN--SOFT-830006?style=flat&logo=PHP)<br/>![C++](https://img.shields.io/badge/C++-ARMIN--SOFT-830006?style=flat&logo=c%2B%2B)<br/>![C#](https://img.shields.io/badge/C%23-ARMIN--SOFT-830006?style=flat&logo=c-sharp)<br/>![PYTHON](https://img.shields.io/badge/PYTHON-ARMIN--SOFT-830006?style=flat&logo=python)<br/>![JAVA](https://img.shields.io/badge/JAVA-ARMIN--SOFT-830006?style=flat&logo=openjdk)<br/>![KOTLIN](https://img.shields.io/badge/KOTLIN-ARMIN--SOFT-830006?style=flat&logo=kotlin)<br/>![DART](https://img.shields.io/badge/DART-ARMIN--SOFT-830006?style=flat&logo=dart)<br/>![Flutter](https://img.shields.io/badge/Flutter-ARMIN--SOFT-830006?style=flat&logo=Flutter)<br/>![SWIFT](https://img.shields.io/badge/SWIFT-ARMIN--SOFT-830006?style=flat&logo=swift)<br/>![React Native](https://img.shields.io/badge/React_Native-ARMIN--SOFT-830006?style=flat&logo=react)<br/>![Xamarin](https://img.shields.io/badge/Xamarin-ARMIN--SOFT-830006?style=flat&logo=xamarin)<br/>
 
 ---
-
-**⭐ If this project helped you, please consider giving it a star!**
-
-**Made with ❤️ by ARMIN-SOFT | © 2025 All Rights Reserved**
-
----
-![](https://visitcount.itsvg.in/api?id=ARMIN-SOFT&icon=6&color=4)
-
 </div>
